@@ -20,7 +20,7 @@
 - View Available Books
 - Select Books to Buy
 - Select Books Quantity
-- Buy Books
+- Buy Bookssss
 - Get Payment Receiptxsx
 
 ### Technologies used:-
