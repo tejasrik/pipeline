@@ -12,7 +12,7 @@
 - Add New Books
 - View Books Available
 - Remove Books
-- Increase Books Amounts
+- Increase Books Amountssss
 
 <span style="color:blue">**Users Have Following Access for this online store site:-**</span>
 - Create New Account or Register
