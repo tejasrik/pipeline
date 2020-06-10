@@ -26,7 +26,7 @@
 ### Technologies used:-
 1. Front-End Development:
 - Html
-- Css codess
+- Css codessssss
 
 - Javascript
 
