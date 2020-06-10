@@ -21,7 +21,7 @@
 - Select Books to Buy
 - Select Books Quantity
 - Buy Books
-- Get Payment Receipt
+- Get Payment Receiptxsx
 
 ### Technologies used:-
 1. Front-End Development:
