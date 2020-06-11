@@ -13,7 +13,7 @@ Using Java
 - Add New Books
 - View Books Available
 - Remove Books
-- Increase Books Amountssss
+- Increase Books Amountssssssssss
 
 <span style="color:blue">**Users Have Following Access for this online store site:-**</span>
 - Create New Account or Register
