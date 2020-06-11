@@ -4,7 +4,7 @@ Using Java
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online
 - Maintaining books selling history
-- Adding and managing bookss
+- Adding and managing booksssssss
 - User Friendly
 - For Implemention of Generic Servlets in Java
 - This is a Mini-project developed using Java, Jdbc, And Generic Servlets
