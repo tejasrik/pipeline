@@ -8,11 +8,11 @@ public class PG1 {
 
     public static void main(String[] args) {
         // declaration and instantiation of objects/variables
-    	System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
-		WebDriver driver = new ChromeDriver();
-		//comment the above 2 lines and uncomment below 2 lines to use Chrome
-		//System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
+    	//System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
 		//WebDriver driver = new ChromeDriver();
+		//comment the above 2 lines and uncomment below 2 lines to use Chrome
+		System.setProperty("webdriver.chrome.driver","C:\Program Files\\Chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
     	
         String baseUrl = "http://demo.guru99.com/test/newtours/";
         String expectedTitle = "Welcome: Mercury Tours";
