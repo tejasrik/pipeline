@@ -11,7 +11,7 @@ public class PG1 {
     	//System.setProperty("webdriver.gecko.driver","C:\\geckodriver.exe");
 		//WebDriver driver = new ChromeDriver();
 		//comment the above 2 lines and uncomment below 2 lines to use Chrome
-		System.setProperty("webdriver.chrome.driver","C:\Program Files\\ChromeDriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\Program Files\ChromeDriver.exe");
 		WebDriver driver = new ChromeDriver();
     	
         String baseUrl = "http://demo.guru99.com/test/newtours/";
