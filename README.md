@@ -7,7 +7,7 @@ Using Java
 - Adding and managing booksssssss
 - User Friendly
 zgxhg
-- For Implemention of Generic Servlets in Java
+- For Implemention of Generic Servlets in JavaSSS
 - This is a Mini-project developed using Java, Jdbc, And Generic Servlets
 
 <span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
