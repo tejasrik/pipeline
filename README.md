@@ -12,7 +12,7 @@ zgxhg
 
 <span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
 - Add New Books
-- View Books Available
+- View Books AvailableSSS
 - Remove Books
 - Increase Books Amountssssssssss
 
