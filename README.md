@@ -14,7 +14,7 @@ zgxhg
 - Add New Books
 - View Books AvailableSSS
 - Remove Books
-- Increase Books Amountssssssssss
+- Increase Books Amountssssssssssssssss
 
 <span style="color:blue">**Users Have Following Access for this online store site:-**</span>
 - Create New Account or Register
